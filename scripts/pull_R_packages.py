@@ -1,10 +1,6 @@
 #!/usr/bin/python
-<<<<<<< HEAD
-# wen
-=======
-#m_cod
+# this is done to b1
 
->>>>>>> my_cod
 """
     This script will scrape the r-project.org machine learning selection and
     format the packages in github markdown style for this
